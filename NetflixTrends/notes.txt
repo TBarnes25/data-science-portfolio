@@ -1,0 +1,5 @@
+
+Small tasks at first, organising the data in the csv so i can read it properly, probably using jupiter notebooks and pandas
+Fomratting with column names , cleaning data to remove where fields are missing 
+Getting the biggest/ smallest/ average values for different columns
+Finding favourite genre in each season 
