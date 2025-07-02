@@ -1,5 +1,47 @@
 
-Small tasks at first, organising the data in the csv so i can read it properly, probably using jupiter notebooks and pandas
-Fomratting with column names , cleaning data to remove where fields are missing 
-Getting the biggest/ smallest/ average values for different columns
-Finding favourite genre in each season 
+
+Hello and welcome, my name is Tom and I am a beginner, this repro to document my learning - so if you are a complete beginner I hope you enjoy and we can learn together - if you are anything but a beginner you will know everything I am about to try and figure out. I will show my code as I am going.
+An important note I will not get AI to code or debug anything but I may ask it for help, for instance ideas on how to complete a task - where I can find useful information and resources.
+
+## 1
+ 
+Today I will be trying to extract useful information from a data set - which I found  on Kaggle under the data set section
+This data set has information on different Netflix shows and movies including type, title, duration and rating
+
+I am going to be sing Jupiter notebooks s - its just a personal preference I like being able to run the code in sections 
+
+
+-Goal of today: Given data, I need to put it into a table and find as much useful information as possible
+- Column names
+- Filter for specific types ie movie
+- Parsing a column from string to int removing unnecescary string elements
+- Descriptive statistics - max mean and min
+- coutns for a column 
+
+
+## 2 
+After trying to find random information I got chatGPT to suggest a list of things I could find - the list is below - I will start with the easy things and work up to the harder ones
+Easy:
+
+Count how many entries exist for each content type
+Find the total number of unique title
+Identify the most frequent maturity ratings
+Determine the most common genres
+Find the top-producing countries
+Show how releases are distributed over the years
+Analyze how frequently new content is added over time
+Calculate the average length of movies and series
+Identify the longest and shortest content entries
+Compare genre popularity between content types
+Rank countries by how many movies vs series they produce
+Find which genres are most popular in each country
+See which genres are associated with which ratings
+Visualize when new content tends to be added throughout the year
+Compare the average duration of older vs newer content
+Measure how long after production content gets added
+Compare directors based on the age-appropriateness of their content
+See how genre popularity changes by decade
+
+
+
+
