@@ -39,6 +39,20 @@ Visualize when new content tends to be added throughout the year
 Compare the average duration of older vs newer content
 
 
+##3
+Medium:
+Find the most active directors
+List actors with the most appearances
+Discover actor pairings that appear together often
+See which performers are associated with which genres
+Find frequent collaborations between performers and directors
+Visualize the spread of content durations to spot extremes
+Compare ratings across different countries
+Extract and rank common keywords from descriptions
+Generate word clouds by genre or country
+Perform sentiment analysis on summaries
+Create comparison plots of type, rating, and genre combinations
+
 
 
 
