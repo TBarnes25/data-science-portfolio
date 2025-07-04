@@ -33,14 +33,11 @@ Analyze how frequently new content is added over time
 Calculate the average length of movies and series
 Identify the longest and shortest content entries
 Compare genre popularity between content types
-Rank countries by how many movies vs series they produce
 Find which genres are most popular in each country
 See which genres are associated with which ratings
 Visualize when new content tends to be added throughout the year
 Compare the average duration of older vs newer content
-Measure how long after production content gets added
-Compare directors based on the age-appropriateness of their content
-See how genre popularity changes by decade
+
 
 
 
