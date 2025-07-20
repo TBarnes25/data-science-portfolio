@@ -65,3 +65,10 @@ Use topic modeling to uncover themes in descriptions
 Cluster content using multiple metadata features
 
 
+Notes for future:
+
+When making a predicitve model:
+Try a better model than Multinomial NB ie
+Try LogisticRegression, RandomForest, or XGBoost
+Use TF-IDF instead of CountVectorizer
+Check that the groups you ar epredicting for are more evenly balanced and if not maybe group the smaller groups to make a larger group 
